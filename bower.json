@@ -8,6 +8,7 @@
     "web",
     "devextreme-web"
   ],
+  "main" : "js/dx.webappjs.js",
   "homepage": "http://js.devexpress.com\"",
   "ignore": [
     "**/.*",
