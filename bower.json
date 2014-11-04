@@ -1,0 +1,19 @@
+{
+  "name": "devextreme-web",
+  "version": "1.0.0",
+  "description": "Bower package for Dev Extreme (free trial)",
+  "keywords": [
+    "devextreme",
+    "devexpress",
+    "web",
+    "devextreme-web"
+  ],
+  "homepage": "http://js.devexpress.com\"",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
