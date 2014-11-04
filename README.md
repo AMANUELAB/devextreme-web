@@ -1,4 +1,3 @@
-bower-devextreme
-================
+#devextreme-web
 
 Bower wrapper for devextreme web
